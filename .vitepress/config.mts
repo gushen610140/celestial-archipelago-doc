@@ -29,5 +29,5 @@ export default defineConfig({
     ],
   },
 
-  base: "/celestial-archipelago/",
+  base: "/celestial-archipelago-doc/",
 });
