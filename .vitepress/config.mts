@@ -16,6 +16,11 @@ export default defineConfig({
             text: "快速入门",
             items: [{ text: "环境准备", link: "environment-preparation" }],
           },
+          {
+            text: "大爱仙尊",
+            base: "/guide/love/",
+            items: [{ text: "环境准备", link: "environment-preparation" }],
+          },
         ],
       },
       "/reference": {
